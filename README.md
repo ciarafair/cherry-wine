@@ -1,12 +1,12 @@
-# Nighthawks
+# LambCult
 
-A 50's diner colour scheme
+A color scheme based on Cult Of The Lamb
 
 ## 🥤 Included colours
 
 | Normal Color | Hex       | Bright Color  | Hex       |
 | ------------ | --------- | ------------- | --------- |
-| Background   | `#f5f5f5` | Foreground    | `#000000` |
+| Background   | `#0d0d0b` | Foreground    | `#dedcd1` |
 | Black        | `#212120` | Black Bright  | `#3B3B39` |
 | Red          | `#9d504b` | Red Bright    | `#ed6d61` |
 | Green        | `#7A9E8A` | Green Bright  | `#CCEBDA` |
