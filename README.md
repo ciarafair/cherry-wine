@@ -2,7 +2,7 @@
 
 A 50's diner colour scheme
 
-## Included colours
+## 🥤 Included colours
 
 | Color         | Hex     |
 | ------------- | ------- |
