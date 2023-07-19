@@ -2,7 +2,7 @@
 
 A color scheme based on Cult Of The Lamb
 
-## 🥤 Included colours
+## 🐑 Included colours
 
 | Normal Color | Hex       | Bright Color  | Hex       |
 | ------------ | --------- | ------------- | --------- |
