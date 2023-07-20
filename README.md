@@ -149,7 +149,7 @@
 				<td><code>hsl(45, 5%, 76%)</code></td>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/dbdbdb.png" /></td>
+				<td><img src="assets/dark-palette/dbdbdb.png" height="23" width="23" /></td>
 				<td>Alto</td>
 				<td>Color15</td>
 				<td><code>#dbdbdb</code></td>
