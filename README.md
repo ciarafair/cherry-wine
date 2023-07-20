@@ -1,6 +1,6 @@
 # Included colours
 
-![Colour Palette]()
+![Colour Palette](https://github.com/ciarafair/cherry-wine/blob/main/assets/ColorScheme.png)
 | Normal Color | Hex | Bright Color | Hex |
 | ------------ | --------- | ------------- | --------- |
 | Background | `#181818` | Foreground | `#dedcd1` |
