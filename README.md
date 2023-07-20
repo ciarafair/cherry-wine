@@ -2,7 +2,7 @@
 
 | Normal Color | Hex       | Bright Color  | Hex       |
 | ------------ | --------- | ------------- | --------- |
-| Background   | `#0d0d0b` | Foreground    | `#dedcd1` |
+| Background   | `#181818` | Foreground    | `#dedcd1` |
 | Black        | `#212120` | Black Bright  | `#3b3b39` |
 | Red          | `#9d504b` | Red Bright    | `#ed6d61` |
 | Green        | `#7a9e8a` | Green Bright  | `#CCEBDA` |
