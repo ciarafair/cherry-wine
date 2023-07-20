@@ -15,7 +15,7 @@
 				<th>HSL</th>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/181818.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/181818.png" height="23" width="23" /></td>
 				<td>Cod Gray</td>
 				<td>Background</td>
 				<td><code>#181818</code></td>
@@ -23,7 +23,7 @@
 				<td><code>hsl(60, 13%, 5%)</code></td>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/dedcd1.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/dedcd1.png" height="23" width="23" /></td>
 				<td>Westar</td>
 				<td>Foreground</td>
 				<td><code>#dedcd1</code></td>
@@ -31,7 +31,7 @@
 				<td><code>hsl(49, 12%, 82%)</code></td>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/212120.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/212120.png" height="23" width="23" /></td>
 				<td>Black</td>
 				<td>Color16</td>
 				<td><code>#212120</code></td>
@@ -40,14 +40,14 @@
 			<tr>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/3b3b39.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/3b3b39.png" height="23" width="23" /></td>
 				<td>Black Bright</td>
 				<td>Color8</td>
 				<td><code>#3b3b39</code></td>
 				<td><code>RGB(59, 59, 57)</code></td>
 				<td><code>hsl(60, 3%, 23%)</code></td>
 			<tr>
-				<td><img src="assets/dark-palette/9D504A.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/9D504A.png" height="23" width="23" /></td>
 				<td>Copper Rust</td>
 				<td>Color1</td>
 				<td><code>#9D504A</code></td>
@@ -55,14 +55,14 @@
 				<td><code>hsl(4, 35%, 45%)</code></td>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/ED6D61.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/ED6D61.png" height="23" width="23" /></td>
 				<td>Burnt Sienna</td>
 				<td>Color9</td>
 				<td><code>#ED6D61</code></td>
 				<td><code>RGB(237, 109, 97)</code></td>
 				<td><code>hsl(5, 79%, 65%)</code></td>
 			<tr>
-				<td><img src="assets/dark-palette/7A9E8A.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/7A9E8A.png" height="23" width="23" /></td>
 				<td>Oxley</td>
 				<td>Color2</td>
 				<td><code>#7A9E8A</code></td>
@@ -70,14 +70,14 @@
 				<td><code>hsl(135, 17%, 56%)</code></td>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/CCEBDA.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/CCEBDA.png" height="23" width="23" /></td>
 				<td>Skeptic</td>
 				<td>Color10</td>
 				<td><code>#CCEBDA</code></td>
 				<td><code>RGB(204, 235, 218)</code></td>
 				<td><code>hsl(135, 44%, 85%)</code></td>
 			<tr>
-				<td><img src="assets/dark-palette/C7B48D.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/C7B48D.png" height="23" width="23" /></td>
 				<td>Indian Khaki</td>
 				<td>Color3</td>
 				<td><code>#C7B48D</code></td>
@@ -85,7 +85,7 @@
 				<td><code>hsl(40, 30%, 65%)</code></td>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/fae2b1.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/fae2b1.png" height="23" width="23" /></td>
 				<td>Peach Yellow</td>
 				<td>Color11</td>
 				<td><code>#fae2b1</code></td>
@@ -93,7 +93,7 @@
 				<td><code>hsl(40, 88%, 84%)</code></td>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/997aa2.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/997aa2.png" height="23" width="23" /></td>
 				<td>Trendy Pink</td>
 				<td>Color4</td>
 				<td><code>#997aa2</code></td>
@@ -101,7 +101,7 @@
 				<td><code>hsl(287, 18%, 56%)</code></td>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/dcb8e6.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/dcb8e6.png" height="23" width="23" /></td>
 				<td>Prelude</td>
 				<td>Color12</td>
 				<td><code>#dcb8e6</code></td>
@@ -109,7 +109,7 @@
 				<td><code>hsl(288, 47%, 81%)</code></td>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/d48ca6.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/d48ca6.png" height="23" width="23" /></td>
 				<td>Can Can</td>
 				<td>Color5</td>
 				<td><code>#d48ca6</code></td>
@@ -117,7 +117,7 @@
 				<td><code>hsl(340, 46%, 68%)</code></td>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/ffc2d8.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/ffc2d8.png" height="23" width="23" /></td>
 				<td>Cotton Candy</td>
 				<td>Color13</td>
 				<td><code>#ffc2d8</code></td>
@@ -125,7 +125,7 @@
 				<td><code>hsl(340, 100%, 88%)</code></td>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/60a3a3.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/60a3a3.png" height="23" width="23" /></td>
 				<td>Breaker Bay</td>
 				<td>Color6</td>
 				<td><code>#60a3a3</code></td>
@@ -133,7 +133,7 @@
 				<td><code>hsl(180, 27%, 51%)</code></td>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/8ecfcf.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/8ecfcf.png" height="23" width="23" /></td>
 				<td>Half Baked</td>
 				<td>Color14</td>
 				<td><code>#8ecfcf</code></td>
@@ -141,7 +141,7 @@
 				<td><code>hsl(180, 40%, 68%)</code></td>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/c4c3be.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/c4c3be.png" height="23" width="23" /></td>
 				<td>Gray Nickle</td>
 				<td>Color7</td>
 				<td><code>#c4c3be</code></td>
@@ -149,7 +149,7 @@
 				<td><code>hsl(45, 5%, 76%)</code></td>
 			</tr>
 			<tr>
-				<td><img src="assets/dark-palette/dbdbdb.png" height="23" width="23" /></td>
+				<td><img src="assets/shiraz/dbdbdb.png" height="23" width="23" /></td>
 				<td>Alto</td>
 				<td>Color15</td>
 				<td><code>#dbdbdb</code></td>
