@@ -2,10 +2,6 @@
 
 ![Colour Palette](https://github.com/ciarafair/cherry-wine/blob/main/assets/ColorScheme.png)
 
-# Included colours
-
-![Colour Palette](https://github.com/ciarafair/cherry-wine/blob/main/assets/ColorScheme.png)
-
 <details>
 	<summary> Dark </summary>
 	<table>
@@ -22,7 +18,6 @@
 				<td><img src="assets/palette/circles/latte_rosewater.png" height="23" width="23" /></td>
 				<td>Cod Gray</td>
 				<td>Background</td>
-				<td></td>
 				<td><code>#181818</code></td>
 				<td><code>RGB(13, 13, 10)</code></td>
 				<td><code>hsl(60, 13%, 5%)</code></td>
