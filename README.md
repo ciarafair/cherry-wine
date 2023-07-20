@@ -3,7 +3,7 @@
 ![Colour Palette](https://github.com/ciarafair/cherry-wine/blob/main/assets/ColorScheme.png)
 
 <details>
-	<summary> Dark </summary>
+	<summary> Shiraz </summary>
 	<table>
 		<table>
 			<tr>
